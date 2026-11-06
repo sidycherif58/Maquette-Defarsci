@@ -214,7 +214,6 @@ body{
     border-radius: 15px;
 }
 .droite  img{
-    display: block;
     align-items: center;
     display: block;
     margin: 0 auto;
@@ -287,8 +286,7 @@ body{
     font-family: 'Calibri';
 }
 .flechee{
-    margin-top: 60px;
-
+    margin: auto;
 }
 /** ================CONTACT================*/
 .cont::before{
