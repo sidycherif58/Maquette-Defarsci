@@ -167,7 +167,7 @@ body{
 .parteh1::before{
     content: "";
     display: block;
-    width: 290px;
+    width: 160px;
     height: 5px;
     background: #125e76;
     margin: 0 auto 30px;
@@ -292,7 +292,7 @@ body{
 .cont::before{
     content: "";
     display: block;
-    width: 180px;
+    width: 160px;
     height: 5px;
     background: #125e76;
     margin: 0 auto 30px;
